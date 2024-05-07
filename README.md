@@ -1,0 +1,1 @@
+open in android studio-> file->settings->dart-?location drive where downloaded and save it-> select and turn on emulator-> go main.dart file under lib folder-> run code line 5-> flutter frontend portion actively working.
